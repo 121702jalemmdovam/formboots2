@@ -1,0 +1,195 @@
+/* Form-1*/
+
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('https://wallpapercave.com/wp/wp12479586.jpg');
+    background-position: center;
+}
+.container{
+    width: 100%;
+    height: 650px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.formItem{
+    display: flex;
+}
+.formText{
+    color: rgb(246, 217, 180);
+    font-size: 14px;
+}
+.formInp{
+    width: 400px;
+    height: 40px;
+    border: none;
+    color: bisque;
+    border: 3px solid burlywood;
+    background-color: transparent;
+
+}
+button{
+    width: 150px;
+    height: 45px;
+}
+#btn{
+    background-color: transparent;
+    border: 3px solid burlywood;
+
+}
+#btn:hover{
+    background-color: bisque;
+    color: black;
+}
+
+ */
+
+/* Form-2 */
+
+
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('https://wallpaperaccess.com/full/921485.jpg');
+    background-position: center;
+}
+.container{
+    width: 100%;
+    height: 650px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.formItem{
+    display: flex;
+}
+.formText{
+    color: rgb(246, 217, 180);
+    font-size: 14px;
+}
+.formInp{
+    width: 400px;
+    height: 40px;
+    border: none;
+    color: bisque;
+    border: 3px solid burlywood;
+    background-color: transparent;
+
+}
+button{
+    width: 400px;
+    height: 45px;
+    font-size: 25px;
+}
+#btn{
+    font-size: 20px;
+    font-weight: b0ld;
+    background-color: transparent;
+    border: 3px solid burlywood;
+
+}
+#btn:hover{
+    background-color: bisque;
+    color: black;
+}
+
+ 
+
+
+/* Form-3 */
+
+
+ /* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    width: 100%;
+    height: max-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('https://i.pinimg.com/1200x/11/f2/da/11f2dad9b4e2ec41a1a3f8c9ef5c253b.jpg');
+    background-position: center;
+}
+.container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.formItem{
+    display: flex;
+    justify-content: space-between;
+}
+.formText{
+    color:rgb(227, 155, 155);
+    font-size: 15px;
+    padding: 10px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#inpTwo,#inpThree,#inpFour,#inpFive,#inpSix,#inpSeven,#inpEight,#inpNine{
+ width: 200px;
+ height: 37px;
+}
+#inpThree,#inpFive,#inpSeven,#inpNine{
+    margin-left: 10px;
+    border: 2px solid brown;
+    background-color: wheat;
+    border-radius: 7px;
+}
+.formInp{
+    width: 420px;
+    height: 37px;
+    margin:10px 10px;
+    border: none;
+    color: bisque;
+    border: 2px solid brown;
+    background-color: wheat;
+
+}
+button{
+    width: 150px;
+    height: 45px;
+    margin-left: 13px;
+}
+#btn{
+    background-color: transparent;
+    border: 2px solid brown;
+
+
+}
+#btn:hover{
+    background-color: bisque;
+    color: black;
+}
+.myForm input ::placeholder{
+    color: bisque;
+}
+ */
